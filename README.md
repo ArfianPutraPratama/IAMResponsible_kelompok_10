@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<!-- Uploading "Group 3.png"... -->
+![Image](https://github.com/user-attachments/assets/c3bf5502-8f47-48da-bd1f-76b7fbc9d530)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
